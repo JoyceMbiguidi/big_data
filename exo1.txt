@@ -1,0 +1,27 @@
+Atelier 2h : Conception d’un Data Lake marketing
+
+	Contexte général :
+		L'entreprise GreenMarket, est une enseigne e-commerce spécialisée dans les produits bio et écoresponsables.
+		Elle vend sur son site web, via une application mobile et dans quelques magasins physiques.
+		L’équipe marketing veut mieux connaître ses clients et personnaliser ses campagnes publicitaires (email, SMS, pubs en ligne).
+
+
+	Objectif de l’exercice :
+		Concevoir un schéma d’architecture Data Lake permettant à GreenMarket de :
+			- Centraliser les données marketing et clients provenant de différentes sources.
+			- Créer une vision 360° du client.
+		
+		Permettre aux analystes et data scientists de travailler sur ces données pour :
+			- Faire du reporting (business intelligence : tableaux de bord),
+			- Faire du scoring client (churn),
+			- Faire de la segmentation marketing.
+
+====================================================================================================
+Type : atelier de réflexion, sans technique
+Livrable : schéma d’architecture + justification des choix
+====================================================================================================
+
+1. Listez les sources potentielles de données de l'entreprise
+2. Identifiez les données potentielles contenues dans les sources (clients, ventes, commandes...)
+3. Proposez une structure du Data Lake (un schéma clair sur la collecte, le stockage, la transformation, et la lecture des données + technos associées)
+4. Pourquoi ce choix d'architecture et pas un autre ?

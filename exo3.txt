@@ -1,0 +1,19 @@
+Atelier 2h : Conception d’un Data Lake marketing
+
+	Contexte général :
+		L'entreprise GreenMarket, est une enseigne e-commerce spécialisée dans les produits bio et écoresponsables.
+		Elle vend sur son site web, via une application mobile et dans quelques magasins physiques.
+		L’équipe marketing veut mieux connaître ses clients et personnaliser ses campagnes publicitaires (email, SMS, pubs en ligne).
+
+
+	Objectif de l’exercice :
+		L’objectif du mini projet est d'implémenter un mini Data Lake orienté temps réel, capable de :
+			- collecter des événements clients en streaming (clics, ajouts au panier, achats, navigation),
+			- les analyser en continu (par exemple : taux de conversion par campagne),
+			- et stocker les données dans un Data Lake pour analyse ultérieure.
+
+
+====================================================================================================
+Type : technique
+Livrable : code et docker fonctionnels
+====================================================================================================

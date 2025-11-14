@@ -1,0 +1,24 @@
+Atelier 2h : Conception d’un Data Lake marketing
+
+	Contexte général :
+		L'entreprise GreenMarket, est une enseigne e-commerce spécialisée dans les produits bio et écoresponsables.
+		Elle vend sur son site web, via une application mobile et dans quelques magasins physiques.
+		L’équipe marketing veut mieux connaître ses clients et personnaliser ses campagnes publicitaires (email, SMS, pubs en ligne).
+
+
+	Objectif de l’exercice :
+		L’objectif du mini projet est de concevoir (puis plus tard implémenter) un mini Data Lake orienté temps réel, capable de :
+			- collecter des événements clients en streaming (clics, ajouts au panier, achats, navigation),
+			- les analyser en continu (par exemple : taux de conversion par campagne),
+			- et stocker les données dans un Data Lake pour analyse ultérieure.
+
+
+====================================================================================================
+Type : atelier de réflexion, sans technique
+Livrable : schéma d’architecture
+====================================================================================================
+
+1. Quelles données en temps réel sont pertinentes pour GreenMarket ?
+2. Quels indicateurs marketing veut-on suivre en temps réel ?
+3. Quels bénéfices business attend GreenMarket de ce suivi temps réel ?
+4. Proposez une architecture data lake pour ce besoin qui met en évidence : les zones du data lake, les outils de traitements, les flux de données
